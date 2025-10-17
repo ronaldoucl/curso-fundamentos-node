@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "is-odd": "^3.0.1",
+    "isnumber": "^1.0.0"
+  },
+  "name": "01-fundamentos-node",
+  "version": "1.0.0",
+  "description": "a nodejs package",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Ronaldo Campos",
+  "license": "MIT"
+}
